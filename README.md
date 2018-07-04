@@ -1,4 +1,4 @@
-# Moores-Law-Linear-Regression-
+# Moores-Law-Linear-Regression
 
 This project uses Linear Regression to prove Moore's Law
 
