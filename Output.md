@@ -1,4 +1,4 @@
-### This File Explains & Shows(images of) Output
+# This File Explains & Shows(images of) Output
 
 * Image named 1 shows the Graph Of give data(Moore.csv).
 * Image named 2 shows the Graph of given data after applying log function.
